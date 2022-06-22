@@ -1,0 +1,106 @@
+{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    outline: none;
+    text-decoration: none;
+    list-style: none;
+}
+body{
+    font-family: 'poppins';
+    height: 100vh;
+    width: 100vw;
+    background-image: url(C:/Users/USER/Desktop/gomycode/POP.jpg);
+    background-size: cover;
+    font-family: :'poppins';
+}
+.navbar{
+    position: relative;
+    padding: 50px;
+    margin: 30px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    box-sizing: border-box;
+
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    
+}
+.navbar a:hover{
+    background: black;
+}
+.navbar .logo{
+    color: white;
+    font-size: 2em;
+    font-weight: bold;
+}
+.navbar .nav-links ul {
+    display: flex;
+}
+.navbar .nav-links ul li{
+    margin: 0 25px;
+    list-style: none;
+}
+.auto p {
+    font-family: Arial (sans-serif);
+    font-size: xx-large;
+    color: white;
+}
+.auto h1{
+    margin: 10px;
+    padding: 8px;
+    font-family: Arial (sans-serif);
+    font-size: 100px;
+    color: white;
+}
+.table h6 {
+font-family: Arial (sans-serif);
+font-size: 30px;
+color: white;
+}
+.table{
+    text-align: center;
+}
+.gender{
+    text-align: center;
+}
+.tt p{
+    font-family: Arial (sans-serif);
+    font-size: xx-large;
+    color: white;
+    font-style: normal;
+}
+.btn-block{
+    text-align: center;
+}
+.foot{
+     background-color: black;
+     color: white;
+     text-align: center;
+    }
+.foot p{
+    font-family: Arial (sans-serif);
+    font-size: x-small;
+    font-style: italic;
+}
+img {
+    margin: 10px;
+    border-radius: 10px;
+  }
+  .female{
+    color: white;
+  }
+  .male{
+    color: white;
+  }
+  h6{
+text-align: center;
+margin: 10px;
+color: white;
+font-family: Arial (sans-serif);
+font-size: xx-large;
+
+  }
